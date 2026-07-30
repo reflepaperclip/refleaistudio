@@ -1,6 +1,6 @@
 # VEIL BORN Market Validation Report — July 2026
 
-> **보고서 URL:** (GitHub push 후 갱신 예정)
+> **보고서 URL:** https://github.com/reflepaperclip/refleaistudio/blob/main/docs/research/veil-born-market-validation-2026-07.md
 > **수집 시각:** 2026-07-30T02:17 UTC
 > **출처:** Valve 공개 API + SteamCharts + SteamSpy (전부 무인증·공개 데이터)
 > **책임 한계:** 콘솔 시장, 판매량, 위시리스트는 공개 API로 확인 불가. 모르는 것은 모른다고 명시함.
