@@ -1,0 +1,3287 @@
+{
+  "collected_at": "2026-07-30T02:17:54.797981+00:00",
+  "sources": "Valve 공개 API + SteamSpy (무인증)",
+  "charts": [
+    {
+      "rank": 1,
+      "appid": 730,
+      "peak_in_game": 1275982,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 2,
+      "appid": 578080,
+      "peak_in_game": 732248,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 3,
+      "appid": 570,
+      "peak_in_game": 635321,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 4,
+      "appid": 431960,
+      "peak_in_game": 111342,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 5,
+      "appid": 1172470,
+      "peak_in_game": 284062,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 6,
+      "appid": 2868840,
+      "peak_in_game": 196023,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 7,
+      "appid": 3241660,
+      "peak_in_game": 94560,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 8,
+      "appid": 271590,
+      "peak_in_game": 98540,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 9,
+      "appid": 2676230,
+      "peak_in_game": 192252,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 10,
+      "appid": 322170,
+      "peak_in_game": 68410,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 11,
+      "appid": 236390,
+      "peak_in_game": 88336,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 12,
+      "appid": 359550,
+      "peak_in_game": 81259,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 13,
+      "appid": 1808500,
+      "peak_in_game": 110659,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 14,
+      "appid": 2507950,
+      "peak_in_game": 170029,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 15,
+      "appid": 2357570,
+      "peak_in_game": 60429,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 16,
+      "appid": 2767030,
+      "peak_in_game": 79929,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 17,
+      "appid": 252490,
+      "peak_in_game": 164254,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 18,
+      "appid": 381210,
+      "peak_in_game": 62076,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 19,
+      "appid": 1422450,
+      "peak_in_game": 72474,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 20,
+      "appid": 230410,
+      "peak_in_game": 72659,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 21,
+      "appid": 3405690,
+      "peak_in_game": 67098,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 22,
+      "appid": 413150,
+      "peak_in_game": 81351,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 23,
+      "appid": 2807960,
+      "peak_in_game": 46646,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 24,
+      "appid": 553850,
+      "peak_in_game": 40261,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 25,
+      "appid": 1973530,
+      "peak_in_game": 50087,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 26,
+      "appid": 3240220,
+      "peak_in_game": 64750,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 27,
+      "appid": 105600,
+      "peak_in_game": 35018,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 28,
+      "appid": 440,
+      "peak_in_game": 50937,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 29,
+      "appid": 3321460,
+      "peak_in_game": 57756,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 30,
+      "appid": 3041230,
+      "peak_in_game": 75963,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 31,
+      "appid": 227300,
+      "peak_in_game": 43013,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 32,
+      "appid": 1086940,
+      "peak_in_game": 57700,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 33,
+      "appid": 438100,
+      "peak_in_game": 51928,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 34,
+      "appid": 550,
+      "peak_in_game": 33062,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 35,
+      "appid": 394360,
+      "peak_in_game": 52382,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 36,
+      "appid": 1203220,
+      "peak_in_game": 64905,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 37,
+      "appid": 1938090,
+      "peak_in_game": 38066,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 38,
+      "appid": 1245620,
+      "peak_in_game": 37426,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 39,
+      "appid": 284160,
+      "peak_in_game": 27824,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 40,
+      "appid": 322330,
+      "peak_in_game": 43500,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 41,
+      "appid": 252950,
+      "peak_in_game": 29704,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 42,
+      "appid": 1091500,
+      "peak_in_game": 37335,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 43,
+      "appid": 3892270,
+      "peak_in_game": 32227,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 44,
+      "appid": 3513350,
+      "peak_in_game": 24441,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 45,
+      "appid": 3472040,
+      "peak_in_game": 39683,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 46,
+      "appid": 250900,
+      "peak_in_game": 22086,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 47,
+      "appid": 3124540,
+      "peak_in_game": 27509,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 48,
+      "appid": 1174180,
+      "peak_in_game": 30115,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 49,
+      "appid": 4000,
+      "peak_in_game": 30366,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 50,
+      "appid": 3105440,
+      "peak_in_game": 41968,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 51,
+      "appid": 1449850,
+      "peak_in_game": 18214,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 52,
+      "appid": 1222670,
+      "peak_in_game": 28607,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 53,
+      "appid": 2344520,
+      "peak_in_game": 50324,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 54,
+      "appid": 739630,
+      "peak_in_game": 20075,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 55,
+      "appid": 108600,
+      "peak_in_game": 30576,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 56,
+      "appid": 289070,
+      "peak_in_game": 42261,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 57,
+      "appid": 1364780,
+      "peak_in_game": 34961,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 58,
+      "appid": 1281930,
+      "peak_in_game": 32451,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 59,
+      "appid": 221100,
+      "peak_in_game": 59922,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 60,
+      "appid": 1366800,
+      "peak_in_game": 43696,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 61,
+      "appid": 489830,
+      "peak_in_game": 27085,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 62,
+      "appid": 1905180,
+      "peak_in_game": 29182,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 63,
+      "appid": 3419430,
+      "peak_in_game": 153544,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 64,
+      "appid": 1665460,
+      "peak_in_game": 17338,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 65,
+      "appid": 714010,
+      "peak_in_game": 8027,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 66,
+      "appid": 440900,
+      "peak_in_game": 40931,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 67,
+      "appid": 244210,
+      "peak_in_game": 14675,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 68,
+      "appid": 291550,
+      "peak_in_game": 13060,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 69,
+      "appid": 4128580,
+      "peak_in_game": 39284,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 70,
+      "appid": 2300320,
+      "peak_in_game": 44617,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 71,
+      "appid": 3564740,
+      "peak_in_game": 33437,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 72,
+      "appid": 646570,
+      "peak_in_game": 20584,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 73,
+      "appid": 3764200,
+      "peak_in_game": 15634,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 74,
+      "appid": 1551360,
+      "peak_in_game": 15754,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 75,
+      "appid": 3527290,
+      "peak_in_game": 14972,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 76,
+      "appid": 2622380,
+      "peak_in_game": 36688,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 77,
+      "appid": 2073850,
+      "peak_in_game": 17920,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 78,
+      "appid": 2073620,
+      "peak_in_game": 28438,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 79,
+      "appid": 1142710,
+      "peak_in_game": 26644,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 80,
+      "appid": 261550,
+      "peak_in_game": 30324,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 81,
+      "appid": 294100,
+      "peak_in_game": 32549,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 82,
+      "appid": 2379780,
+      "peak_in_game": 10903,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 83,
+      "appid": 813780,
+      "peak_in_game": 22797,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 84,
+      "appid": 3551340,
+      "peak_in_game": 46776,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 85,
+      "appid": 3526710,
+      "peak_in_game": 18008,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 86,
+      "appid": 594650,
+      "peak_in_game": 27896,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 87,
+      "appid": 960090,
+      "peak_in_game": 10669,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 88,
+      "appid": 251570,
+      "peak_in_game": 25795,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 89,
+      "appid": 629520,
+      "peak_in_game": 19663,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 90,
+      "appid": 892970,
+      "peak_in_game": 25417,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 91,
+      "appid": 1158310,
+      "peak_in_game": 23971,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 92,
+      "appid": 1144200,
+      "peak_in_game": 10559,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 93,
+      "appid": 4025700,
+      "peak_in_game": 23352,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 94,
+      "appid": 3164500,
+      "peak_in_game": 19517,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 95,
+      "appid": 1329410,
+      "peak_in_game": 14352,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 96,
+      "appid": 3224770,
+      "peak_in_game": 9532,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 97,
+      "appid": 264710,
+      "peak_in_game": 14328,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 98,
+      "appid": 945360,
+      "peak_in_game": 10032,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 99,
+      "appid": 2694490,
+      "peak_in_game": 17589,
+      "concurrent_in_game": null
+    },
+    {
+      "rank": 100,
+      "appid": 39210,
+      "peak_in_game": 31071,
+      "concurrent_in_game": null
+    }
+  ],
+  "store": {
+    "top_sellers": [
+      {
+        "appid": 3282300,
+        "name": "Mistfall Hunter",
+        "discount_percent": 10,
+        "final_price": 2385000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4433900,
+        "name": "드래곤볼 스파킹! 제로 한계 초돌파 DLC 「NEO」",
+        "discount_percent": 0,
+        "final_price": 4480000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4570720,
+        "name": "드래곤소드 : 어웨이크닝",
+        "discount_percent": 0,
+        "final_price": 3300000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 1623730,
+        "name": "Palworld / 팰월드",
+        "discount_percent": 0,
+        "final_price": 3200000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 76900,
+        "name": "Mistfall Hunter - Deluxe Edition",
+        "discount_percent": 10,
+        "final_price": 3690000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4836540,
+        "name": "Company of Heroes 3: Final Stand",
+        "discount_percent": 10,
+        "final_price": 2907000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 82772,
+        "name": "Company of Heroes 3 - Final Stand Bundle ",
+        "discount_percent": 42,
+        "final_price": 4240000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 32470,
+        "name": "사이버펑크 2077: 얼티밋 에디션",
+        "discount_percent": 60,
+        "final_price": 3748000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "discount_percent": 70,
+        "final_price": 1980000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4704690,
+        "name": "MECCHA CHAMELEON",
+        "discount_percent": 15,
+        "final_price": 557000,
+        "currency": "KRW"
+      }
+    ],
+    "new_releases": [
+      {
+        "appid": 4572310,
+        "name": "Mistfall Hunter - Upgrade to Deluxe Edition",
+        "discount_percent": 10,
+        "final_price": 1305000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 3282300,
+        "name": "Mistfall Hunter",
+        "discount_percent": 10,
+        "final_price": 2385000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4689420,
+        "name": "Hachishakusama | 八尺様がいた夏休み",
+        "discount_percent": 20,
+        "final_price": 911000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4087770,
+        "name": "BioBot Guide: 섹시 싱크",
+        "discount_percent": 10,
+        "final_price": 787000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4433900,
+        "name": "드래곤볼 스파킹! 제로 한계 초돌파 DLC 「NEO」",
+        "discount_percent": 0,
+        "final_price": 4480000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4939160,
+        "name": "SEX Dreams at the Motel",
+        "discount_percent": 20,
+        "final_price": 436000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4950070,
+        "name": "Sophical",
+        "discount_percent": 0,
+        "final_price": 545000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4877260,
+        "name": "Room 0",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4868940,
+        "name": "Лондолеон: ни единого пенни",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 3165050,
+        "name": "OUTCLAW",
+        "discount_percent": 10,
+        "final_price": 2385000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 3531850,
+        "name": "Fishing Together: Idle Island",
+        "discount_percent": 25,
+        "final_price": 420000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4446400,
+        "name": "MUTEIGHT",
+        "discount_percent": 15,
+        "final_price": 280000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4900420,
+        "name": "Senseless Cooking",
+        "discount_percent": 10,
+        "final_price": 490000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 2836670,
+        "name": "Batya in the Building: 10 Years Later",
+        "discount_percent": 15,
+        "final_price": 191000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4136730,
+        "name": "Solitaire Deck",
+        "discount_percent": 10,
+        "final_price": 490000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 3982520,
+        "name": "Mischief Moves In",
+        "discount_percent": 15,
+        "final_price": 1785000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4344210,
+        "name": "Keyboard Warrior",
+        "discount_percent": 20,
+        "final_price": 436000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4917740,
+        "name": "Wizard Tournament",
+        "discount_percent": 30,
+        "final_price": 675000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 2766810,
+        "name": "Scuttle",
+        "discount_percent": 10,
+        "final_price": 684000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4241690,
+        "name": "Hydra Heli 2",
+        "discount_percent": 10,
+        "final_price": 684000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4581040,
+        "name": "Crescent Creek: Survival Horror",
+        "discount_percent": 0,
+        "final_price": 655000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4421010,
+        "name": "Bills Must Be Paid",
+        "discount_percent": 30,
+        "final_price": 532000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4836540,
+        "name": "Company of Heroes 3: Final Stand",
+        "discount_percent": 10,
+        "final_price": 2907000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4846570,
+        "name": "Wimple and Habit",
+        "discount_percent": 15,
+        "final_price": 637000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4941520,
+        "name": "Galactic Sentinels",
+        "discount_percent": 0,
+        "final_price": 547000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4654210,
+        "name": "Rift of the NecroDancer: Among Us - \"Sought (Seek Remix) - Danny Baranowsky",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4516310,
+        "name": "Clicker Complex: Vira’s Private Stream",
+        "discount_percent": 10,
+        "final_price": 630000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 3634020,
+        "name": "Dante's RUMBA",
+        "discount_percent": 10,
+        "final_price": 603000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4847750,
+        "name": "Tank Tower Defense  坦克塔防",
+        "discount_percent": 0,
+        "final_price": 440000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4876870,
+        "name": "Squoids",
+        "discount_percent": 0,
+        "final_price": 1050000,
+        "currency": "KRW"
+      }
+    ],
+    "coming_soon": [
+      {
+        "appid": 4925040,
+        "name": "Gear Clash: Hero Unite",
+        "discount_percent": 20,
+        "final_price": 180000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4925100,
+        "name": "Gear Clash: Hero Unite - Penguin Package",
+        "discount_percent": 10,
+        "final_price": 94000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4906500,
+        "name": "S.A.M. - Stasis Asset Management",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 2527300,
+        "name": "릴리 판타지아",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 5002310,
+        "name": "封神演义之黄飞虎归周 - 像素风高清壁纸",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 3908250,
+        "name": "封神演义之黄飞虎归周",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 3914030,
+        "name": "一百单九将",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4624310,
+        "name": "Seventh Mansion: The First Escape",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4961970,
+        "name": "Wayfarer Colony: Veylan",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4383980,
+        "name": "Bob Run",
+        "discount_percent": 0,
+        "final_price": 0,
+        "currency": "KRW"
+      }
+    ],
+    "specials": [
+      {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "discount_percent": 70,
+        "final_price": 1980000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4704690,
+        "name": "MECCHA CHAMELEON",
+        "discount_percent": 15,
+        "final_price": 557000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 2138330,
+        "name": "사이버펑크 2077: 팬텀 리버티",
+        "discount_percent": 40,
+        "final_price": 2094000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4594150,
+        "name": "대장님, 오크가 몰려옵니다",
+        "discount_percent": 10,
+        "final_price": 891000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 2183900,
+        "name": "Warhammer 40,000: Space Marine 2",
+        "discount_percent": 70,
+        "final_price": 2094000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 2417610,
+        "name": "METAL GEAR SOLID Δ: SNAKE EATER",
+        "discount_percent": 60,
+        "final_price": 3580000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 1971650,
+        "name": "옥토패스 트래블러 II",
+        "discount_percent": 60,
+        "final_price": 1992000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 4421010,
+        "name": "Bills Must Be Paid",
+        "discount_percent": 30,
+        "final_price": 532000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 1903340,
+        "name": "클레르 옵스퀴르: 33 원정대",
+        "discount_percent": 20,
+        "final_price": 4384000,
+        "currency": "KRW"
+      },
+      {
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "discount_percent": 35,
+        "final_price": 695000,
+        "currency": "KRW"
+      }
+    ]
+  },
+  "top_details": [
+    {
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "type": "game",
+      "release_date": "2012년 8월 21일",
+      "coming_soon": false,
+      "developers": [
+        "Valve"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "genres": [
+        "액션",
+        "무료 플레이"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 트레이딩 카드",
+        "Steam 창작마당",
+        "Steam 창작마당",
+        "앱 내 구매",
+        "텍스트 크기 조정",
+        "카메라 움직임 조정",
+        "색상 대체",
+        "음량 개별 조절",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "스테레오 사운드"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "peak_in_game": 1275982,
+      "reviews": {
+        "appid": 730,
+        "review_score_desc": "Very Positive",
+        "total_positive": 8392284,
+        "total_negative": 1362746,
+        "positive_ratio": 0.86,
+        "recent": []
+      }
+    },
+    {
+      "appid": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "type": "game",
+      "release_date": "2017년 12월 21일",
+      "coming_soon": false,
+      "developers": [
+        "PUBG Corporation"
+      ],
+      "publishers": [
+        "KRAFTON, Inc."
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "대규모 멀티플레이어",
+        "무료 플레이"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "음량 개별 조절",
+        "스테레오 사운드",
+        "서라운드 사운드",
+        "컨트롤러 일부 지원",
+        "통계",
+        "Remote Play 휴대전화",
+        "Remote Play 태블릿",
+        "가족 공유"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 732248,
+      "reviews": {
+        "appid": 578080,
+        "review_score_desc": "Mixed",
+        "total_positive": 1655123,
+        "total_negative": 1082173,
+        "positive_ratio": 0.605,
+        "recent": []
+      }
+    },
+    {
+      "appid": 570,
+      "name": "Dota 2",
+      "type": "game",
+      "release_date": "2013년 7월 9일",
+      "coming_soon": false,
+      "developers": [
+        "Valve"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "genres": [
+        "액션",
+        "전략",
+        "무료 플레이"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "협동",
+        "Steam 트레이딩 카드",
+        "Steam 창작마당",
+        "SteamVR 수집품",
+        "앱 내 구매",
+        "카메라 움직임 조정",
+        "색상 대체",
+        "음량 개별 조절",
+        "Valve Anti-Cheat 사용",
+        "Steam 타임라인"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": 90,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "peak_in_game": 635321,
+      "reviews": {
+        "appid": 570,
+        "review_score_desc": "Very Positive",
+        "total_positive": 2215629,
+        "total_negative": 532395,
+        "positive_ratio": 0.806,
+        "recent": []
+      }
+    },
+    {
+      "appid": 431960,
+      "name": "Wallpaper Engine",
+      "type": "game",
+      "release_date": "2018년 11월 16일",
+      "coming_soon": false,
+      "developers": [
+        "Wallpaper Engine Team"
+      ],
+      "publishers": [
+        "Wallpaper Engine Team"
+      ],
+      "genres": [
+        "캐주얼",
+        "인디",
+        "애니메이션과 모델링",
+        "디자인과 일러스트레이션",
+        "사진 편집",
+        "유틸리티"
+      ],
+      "categories": [
+        "Steam 도전 과제",
+        "Steam 트레이딩 카드",
+        "Steam 창작마당",
+        "Steam 창작마당",
+        "레벨 에디터 포함"
+      ],
+      "price": "₩ 5,600",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 111342,
+      "reviews": {
+        "appid": 431960,
+        "review_score_desc": "Overwhelmingly Positive",
+        "total_positive": 981093,
+        "total_negative": 24392,
+        "positive_ratio": 0.976,
+        "recent": []
+      }
+    },
+    {
+      "appid": 1172470,
+      "name": "Apex 레전드™",
+      "type": "game",
+      "release_date": "2020년 11월 4일",
+      "coming_soon": false,
+      "developers": [
+        "Respawn"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "무료 플레이"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "Steam 트레이딩 카드",
+        "앱 내 구매",
+        "음성 채팅 텍스트 변환",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "DUALSHOCK 컨트롤러 지원"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": 88,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 284062,
+      "reviews": {
+        "appid": 1172470,
+        "review_score_desc": "Mixed",
+        "total_positive": 717748,
+        "total_negative": 342287,
+        "positive_ratio": 0.677,
+        "recent": []
+      }
+    },
+    {
+      "appid": 2868840,
+      "name": "Slay the Spire 2",
+      "type": "game",
+      "release_date": "2026년 3월 5일",
+      "coming_soon": false,
+      "developers": [
+        "Mega Crit"
+      ],
+      "publishers": [
+        "Mega Crit"
+      ],
+      "genres": [
+        "인디",
+        "전략",
+        "앞서 해보기"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "협동",
+        "온라인 협동",
+        "컨트롤러 완벽 지원",
+        "음량 개별 조절",
+        "마우스 전용 옵션",
+        "#category_playable_at_your_own_pace",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "DualSense 컨트롤러 지원",
+        "수시 저장",
+        "Steam Input API 지원"
+      ],
+      "price": "₩ 27,000",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "peak_in_game": 196023,
+      "reviews": {
+        "appid": 2868840,
+        "review_score_desc": "Mixed",
+        "total_positive": 116607,
+        "total_negative": 76126,
+        "positive_ratio": 0.605,
+        "recent": []
+      }
+    },
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "type": "game",
+      "release_date": "2025년 2월 26일",
+      "coming_soon": false,
+      "developers": [
+        "semiwork"
+      ],
+      "publishers": [
+        "semiwork"
+      ],
+      "genres": [
+        "액션",
+        "앞서 해보기"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "협동",
+        "온라인 협동",
+        "카메라 움직임 조정",
+        "음량 개별 조절",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "스테레오 사운드",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": "₩ 6,950",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 94560,
+      "reviews": {
+        "appid": 3241660,
+        "review_score_desc": "Overwhelmingly Positive",
+        "total_positive": 397036,
+        "total_negative": 16290,
+        "positive_ratio": 0.961,
+        "recent": []
+      }
+    },
+    {
+      "appid": 271590,
+      "name": "Grand Theft Auto V 레거시",
+      "type": "game",
+      "release_date": "2015년 4월 13일",
+      "coming_soon": false,
+      "developers": [
+        "Rockstar North"
+      ],
+      "publishers": [
+        "Rockstar Games"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "Remote Play 휴대전화",
+        "Remote Play 태블릿",
+        "Remote Play TV"
+      ],
+      "price": null,
+      "is_free": false,
+      "metacritic": 96,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 98540,
+      "reviews": {
+        "appid": 271590,
+        "review_score_desc": "Very Positive",
+        "total_positive": 1815793,
+        "total_negative": 255792,
+        "positive_ratio": 0.877,
+        "recent": []
+      }
+    },
+    {
+      "appid": 2676230,
+      "name": "FiveM",
+      "type": "advertising",
+      "release_date": "",
+      "coming_soon": false,
+      "developers": null,
+      "publishers": null,
+      "genres": [],
+      "categories": [],
+      "price": null,
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 192252,
+      "reviews": {
+        "appid": 2676230,
+        "review_score_desc": "Very Positive",
+        "total_positive": 309,
+        "total_negative": 27,
+        "positive_ratio": 0.92,
+        "recent": []
+      }
+    },
+    {
+      "appid": 322170,
+      "name": "Geometry Dash",
+      "type": "game",
+      "release_date": "2014년 12월 22일",
+      "coming_soon": false,
+      "developers": [
+        "RobTop Games"
+      ],
+      "publishers": [
+        "RobTop Games"
+      ],
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "Steam 트레이딩 카드",
+        "컨트롤러 일부 지원",
+        "레벨 에디터 포함",
+        "Remote Play 휴대전화",
+        "Remote Play 태블릿",
+        "가족 공유"
+      ],
+      "price": "₩ 5,600",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "peak_in_game": 68410,
+      "reviews": {
+        "appid": 322170,
+        "review_score_desc": "Very Positive",
+        "total_positive": 583357,
+        "total_negative": 43600,
+        "positive_ratio": 0.93,
+        "recent": []
+      }
+    },
+    {
+      "appid": 236390,
+      "name": "War Thunder",
+      "type": "game",
+      "release_date": "2013년 8월 15일",
+      "coming_soon": false,
+      "developers": [
+        "Gaijin Entertainment"
+      ],
+      "publishers": [
+        "Gaijin Network Ltd"
+      ],
+      "genres": [
+        "액션",
+        "대규모 멀티플레이어",
+        "시뮬레이션",
+        "무료 플레이"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "MMO",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "VR 지원",
+        "Steam 트레이딩 카드"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": 81,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "peak_in_game": 88336,
+      "reviews": {
+        "appid": 236390,
+        "review_score_desc": "Mostly Positive",
+        "total_positive": 549416,
+        "total_negative": 221602,
+        "positive_ratio": 0.713,
+        "recent": []
+      }
+    },
+    {
+      "appid": 359550,
+      "name": "톰 클랜시의 레인보우식스 시즈",
+      "type": "game",
+      "release_date": "2015년 12월 1일",
+      "coming_soon": false,
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "genres": [
+        "액션",
+        "무료 플레이"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "컨트롤러 완벽 지원",
+        "Steam 트레이딩 카드",
+        "앱 내 구매",
+        "DUALSHOCK 컨트롤러 지원",
+        "DUALSHOCK 컨트롤러 지원",
+        "DualSense 컨트롤러 지원"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 81259,
+      "reviews": {
+        "appid": 359550,
+        "review_score_desc": "Very Positive",
+        "total_positive": 1262683,
+        "total_negative": 272410,
+        "positive_ratio": 0.823,
+        "recent": []
+      }
+    },
+    {
+      "appid": 1808500,
+      "name": "ARC Raiders",
+      "type": "game",
+      "release_date": "2025년 10월 30일",
+      "coming_soon": false,
+      "developers": [
+        "Embark Studios"
+      ],
+      "publishers": [
+        "Embark Studios"
+      ],
+      "genres": [
+        "액션"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "앱 내 구매",
+        "DUALSHOCK 컨트롤러 지원",
+        "DUALSHOCK 컨트롤러 지원",
+        "DualSense 컨트롤러 지원"
+      ],
+      "price": "₩ 60,900",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 110659,
+      "reviews": {
+        "appid": 1808500,
+        "review_score_desc": "Very Positive",
+        "total_positive": 339070,
+        "total_negative": 71081,
+        "positive_ratio": 0.827,
+        "recent": []
+      }
+    },
+    {
+      "appid": 2507950,
+      "name": "Delta Force",
+      "type": "game",
+      "release_date": "2024년 12월 4일",
+      "coming_soon": false,
+      "developers": [
+        "Team Jade"
+      ],
+      "publishers": [
+        "TiMi Studio Group"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "대규모 멀티플레이어",
+        "무료 플레이"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "MMO",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "Steam 트레이딩 카드",
+        "앱 내 구매"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 170029,
+      "reviews": {
+        "appid": 2507950,
+        "review_score_desc": "Mixed",
+        "total_positive": 110458,
+        "total_negative": 80081,
+        "positive_ratio": 0.58,
+        "recent": []
+      }
+    },
+    {
+      "appid": 2357570,
+      "name": "오버워치™",
+      "type": "game",
+      "release_date": "2023년 8월 10일",
+      "coming_soon": false,
+      "developers": [
+        "Blizzard Entertainment, Inc."
+      ],
+      "publishers": [
+        "Blizzard Entertainment, Inc."
+      ],
+      "genres": [
+        "액션",
+        "무료 플레이"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "앱 내 구매",
+        "텍스트 크기 조정",
+        "카메라 움직임 조정",
+        "음성 채팅 텍스트 변환"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 60429,
+      "reviews": {
+        "appid": 2357570,
+        "review_score_desc": "Mostly Negative",
+        "total_positive": 128971,
+        "total_negative": 285773,
+        "positive_ratio": 0.311,
+        "recent": []
+      }
+    },
+    {
+      "appid": 2767030,
+      "name": "마블 라이벌즈",
+      "type": "game",
+      "release_date": "2024년 12월 5일",
+      "coming_soon": false,
+      "developers": [
+        "NetEase Games"
+      ],
+      "publishers": [
+        "NetEase Games"
+      ],
+      "genres": [
+        "액션",
+        "무료 플레이"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "앱 내 구매",
+        "DUALSHOCK 컨트롤러 지원",
+        "DUALSHOCK 컨트롤러 지원",
+        "DualSense 컨트롤러 지원"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 79929,
+      "reviews": {
+        "appid": 2767030,
+        "review_score_desc": "Mostly Positive",
+        "total_positive": 306876,
+        "total_negative": 97264,
+        "positive_ratio": 0.759,
+        "recent": []
+      }
+    },
+    {
+      "appid": 252490,
+      "name": "Rust",
+      "type": "game",
+      "release_date": "2018년 2월 8일",
+      "coming_soon": false,
+      "developers": [
+        "Facepunch Studios"
+      ],
+      "publishers": [
+        "Facepunch Studios"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "대규모 멀티플레이어",
+        "RPG"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "MMO",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "Steam 트레이딩 카드",
+        "Steam 창작마당",
+        "앱 내 구매",
+        "텍스트 크기 조정"
+      ],
+      "price": "₩ 21,000",
+      "is_free": false,
+      "metacritic": 69,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "peak_in_game": 164254,
+      "reviews": {
+        "appid": 252490,
+        "review_score_desc": "Very Positive",
+        "total_positive": 1202192,
+        "total_negative": 182565,
+        "positive_ratio": 0.868,
+        "recent": []
+      }
+    },
+    {
+      "appid": 381210,
+      "name": "Dead by Daylight",
+      "type": "game",
+      "release_date": "2016년 6월 14일",
+      "coming_soon": false,
+      "developers": [
+        "Behaviour Interactive Inc."
+      ],
+      "publishers": [
+        "Behaviour Interactive Inc."
+      ],
+      "genres": [
+        "액션"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "Steam 트레이딩 카드",
+        "색상 대체",
+        "음량 개별 조절",
+        "Steam Input API 지원"
+      ],
+      "price": "₩ 21,500",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 62076,
+      "reviews": {
+        "appid": 381210,
+        "review_score_desc": "Mostly Positive",
+        "total_positive": 724244,
+        "total_negative": 199097,
+        "positive_ratio": 0.784,
+        "recent": []
+      }
+    },
+    {
+      "appid": 1422450,
+      "name": "Deadlock",
+      "type": "game",
+      "release_date": "발표 예정",
+      "coming_soon": true,
+      "developers": [
+        "Valve"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "genres": [
+        "액션"
+      ],
+      "categories": [
+        "멀티플레이어"
+      ],
+      "price": null,
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 72474,
+      "reviews": {
+        "appid": 1422450,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 230410,
+      "name": "Warframe",
+      "type": "game",
+      "release_date": "2013년 3월 25일",
+      "coming_soon": false,
+      "developers": [
+        "Digital Extremes"
+      ],
+      "publishers": [
+        "Digital Extremes"
+      ],
+      "genres": [
+        "액션",
+        "RPG",
+        "무료 플레이"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "협동",
+        "온라인 협동",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "Steam 트레이딩 카드",
+        "Steam 창작마당",
+        "앱 내 구매",
+        "카메라 움직임 조정",
+        "색상 대체"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": 69,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 72659,
+      "reviews": {
+        "appid": 230410,
+        "review_score_desc": "Very Positive",
+        "total_positive": 589937,
+        "total_negative": 82146,
+        "positive_ratio": 0.878,
+        "recent": []
+      }
+    },
+    {
+      "appid": 3405690,
+      "name": "EA SPORTS FC™ 26",
+      "type": "game",
+      "release_date": "2025년 9월 25일",
+      "coming_soon": false,
+      "developers": [
+        "EA Canada",
+        "EA Romania"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "시뮬레이션",
+        "스포츠"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "스크린 공유 및 분할 PvP",
+        "협동",
+        "온라인 협동",
+        "스크린 공유 및 분할 협동",
+        "공유 및 분할 화면",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원"
+      ],
+      "price": "₩ 22,000",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 67098,
+      "reviews": {
+        "appid": 3405690,
+        "review_score_desc": "Mixed",
+        "total_positive": 48229,
+        "total_negative": 48125,
+        "positive_ratio": 0.501,
+        "recent": []
+      }
+    },
+    {
+      "appid": 413150,
+      "name": "Stardew Valley",
+      "type": "game",
+      "release_date": "2016년 2월 26일",
+      "coming_soon": false,
+      "developers": [
+        "ConcernedApe"
+      ],
+      "publishers": [
+        "ConcernedApe"
+      ],
+      "genres": [
+        "인디",
+        "RPG",
+        "시뮬레이션"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "협동",
+        "온라인 협동",
+        "LAN 협동",
+        "스크린 공유 및 분할 협동",
+        "공유 및 분할 화면",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "Steam 트레이딩 카드",
+        "Steam Cloud",
+        "Remote Play 휴대전화"
+      ],
+      "price": "₩ 16,000",
+      "is_free": false,
+      "metacritic": 89,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "peak_in_game": 81351,
+      "reviews": {
+        "appid": 413150,
+        "review_score_desc": "Overwhelmingly Positive",
+        "total_positive": 1011802,
+        "total_negative": 15626,
+        "positive_ratio": 0.985,
+        "recent": []
+      }
+    },
+    {
+      "appid": 2807960,
+      "name": "Battlefield™ 6",
+      "type": "game",
+      "release_date": "2025년 10월 10일",
+      "coming_soon": false,
+      "developers": [
+        "Battlefield Studios"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "액션"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "크로스 플랫폼 멀티플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "앱 내 구매",
+        "카메라 움직임 조정",
+        "음성 채팅 텍스트 변환",
+        "텍스트 채팅 음성 변환",
+        "색상 대체"
+      ],
+      "price": "₩ 40,000",
+      "is_free": false,
+      "metacritic": 82,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 46646,
+      "reviews": {
+        "appid": 2807960,
+        "review_score_desc": "Mixed",
+        "total_positive": 229932,
+        "total_negative": 125912,
+        "positive_ratio": 0.646,
+        "recent": []
+      }
+    },
+    {
+      "appid": 553850,
+      "name": "HELLDIVERS™ 2",
+      "type": "game",
+      "release_date": "2024년 2월 8일",
+      "coming_soon": false,
+      "developers": [
+        "Arrowhead Game Studios"
+      ],
+      "publishers": [
+        "PlayStation Publishing LLC"
+      ],
+      "genres": [
+        "액션"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "협동",
+        "온라인 협동",
+        "Steam 도전 과제",
+        "앱 내 구매",
+        "텍스트 크기 조정",
+        "카메라 움직임 조정",
+        "음성 채팅 텍스트 변환",
+        "텍스트 채팅 음성 변환",
+        "색상 대체",
+        "음량 개별 조절",
+        "난이도 조정"
+      ],
+      "price": "₩ 44,800",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 40261,
+      "reviews": {
+        "appid": 553850,
+        "review_score_desc": "Mostly Positive",
+        "total_positive": 866052,
+        "total_negative": 286040,
+        "positive_ratio": 0.752,
+        "recent": []
+      }
+    },
+    {
+      "appid": 1973530,
+      "name": "Limbus Company",
+      "type": "game",
+      "release_date": "2023년 2월 26일",
+      "coming_soon": false,
+      "developers": [
+        "ProjectMoon"
+      ],
+      "publishers": [
+        "ProjectMoon"
+      ],
+      "genres": [
+        "무료 플레이"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "앱 내 구매",
+        "가족 공유"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "peak_in_game": 50087,
+      "reviews": {
+        "appid": 1973530,
+        "review_score_desc": "Very Positive",
+        "total_positive": 100707,
+        "total_negative": 13664,
+        "positive_ratio": 0.881,
+        "recent": []
+      }
+    }
+  ],
+  "new_details": [
+    {
+      "appid": 4572310,
+      "name": "Mistfall Hunter - Upgrade to Deluxe Edition",
+      "type": "dlc",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Bellring Games"
+      ],
+      "publishers": [
+        "Skystone Games"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "다운로드 가능한 콘텐츠",
+        "컨트롤러 완벽 지원",
+        "앱 내 구매",
+        "DUALSHOCK 컨트롤러 지원",
+        "DUALSHOCK 컨트롤러 지원",
+        "DualSense 컨트롤러 지원",
+        "DualSense 컨트롤러 지원"
+      ],
+      "price": "₩ 13,050",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4572310,
+        "review_score_desc": "1 user reviews",
+        "total_positive": 0,
+        "total_negative": 1,
+        "positive_ratio": 0.0,
+        "recent": []
+      }
+    },
+    {
+      "appid": 3282300,
+      "name": "Mistfall Hunter",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Bellring Games"
+      ],
+      "publishers": [
+        "Skystone Games"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "Steam 도전 과제",
+        "앱 내 구매",
+        "DUALSHOCK 컨트롤러 지원",
+        "DUALSHOCK 컨트롤러 지원",
+        "DualSense 컨트롤러 지원",
+        "DualSense 컨트롤러 지원",
+        "컨트롤러 일부 지원"
+      ],
+      "price": "₩ 23,850",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 3282300,
+        "review_score_desc": "Mixed",
+        "total_positive": 19,
+        "total_negative": 20,
+        "positive_ratio": 0.487,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4689420,
+      "name": "Hachishakusama | 八尺様がいた夏休み",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Fukachi World"
+      ],
+      "publishers": [
+        "Fukachi World"
+      ],
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "색상 대체",
+        "키보드 전용 옵션",
+        "마우스 전용 옵션",
+        "#category_playable_at_your_own_pace",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "가족 공유"
+      ],
+      "price": "₩ 9,110",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4689420,
+        "review_score_desc": "1 user reviews",
+        "total_positive": 1,
+        "total_negative": 0,
+        "positive_ratio": 1.0,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4087770,
+      "name": "BioBot Guide: 섹시 싱크",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "G8Bird"
+      ],
+      "publishers": [
+        "G8Bird"
+      ],
+      "genres": [
+        "캐주얼",
+        "인디"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "음량 개별 조절",
+        "난이도 조정",
+        "키보드 전용 옵션",
+        "마우스 전용 옵션",
+        "수시 저장",
+        "스테레오 사운드",
+        "Steam Cloud",
+        "Steam 순위표",
+        "가족 공유"
+      ],
+      "price": "₩ 7,870",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4087770,
+        "review_score_desc": "2 user reviews",
+        "total_positive": 2,
+        "total_negative": 0,
+        "positive_ratio": 1.0,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4433900,
+      "name": "드래곤볼 스파킹! 제로 한계 초돌파 DLC 「NEO」",
+      "type": "dlc",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Spike Chunsoft Co., Ltd."
+      ],
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "genres": [
+        "액션"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "스크린 공유 및 분할 PvP",
+        "공유 및 분할 화면",
+        "다운로드 가능한 콘텐츠",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "카메라 움직임 조정",
+        "음량 개별 조절",
+        "게임패드 권장"
+      ],
+      "price": "₩ 44,800",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4433900,
+        "review_score_desc": "Mostly Positive",
+        "total_positive": 25,
+        "total_negative": 9,
+        "positive_ratio": 0.735,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4939160,
+      "name": "SEX Dreams at the Motel",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "ReluxHub365"
+      ],
+      "publishers": [
+        "ReluxHub365"
+      ],
+      "genres": [
+        "시뮬레이션"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "가족 공유"
+      ],
+      "price": "₩ 4,360",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4939160,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4950070,
+      "name": "Sophical",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Ramzi Mukhar"
+      ],
+      "publishers": [
+        "Ramzi Mukhar"
+      ],
+      "genres": [
+        "어드벤처"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "가족 공유"
+      ],
+      "price": "₩ 5,450",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4950070,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4877260,
+      "name": "Room 0",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Room Zero Team"
+      ],
+      "publishers": [
+        "Room Zero Team"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "무료 플레이"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "카메라 움직임 조정",
+        "#category_playable_at_your_own_pace",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "스테레오 사운드",
+        "서라운드 사운드",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4877260,
+        "review_score_desc": "2 user reviews",
+        "total_positive": 1,
+        "total_negative": 1,
+        "positive_ratio": 0.5,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4868940,
+      "name": "Лондолеон: ни единого пенни",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Kovcibe"
+      ],
+      "publishers": [
+        "Kovcibe"
+      ],
+      "genres": [
+        "어드벤처",
+        "인디",
+        "RPG",
+        "무료 플레이"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": null,
+      "is_free": true,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "appid": 4868940,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 3165050,
+      "name": "OUTCLAW",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Moss Monkey"
+      ],
+      "publishers": [
+        "Moss Monkey"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "가족 공유"
+      ],
+      "price": "₩ 23,850",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 3165050,
+        "review_score_desc": "Positive",
+        "total_positive": 25,
+        "total_negative": 0,
+        "positive_ratio": 1.0,
+        "recent": []
+      }
+    },
+    {
+      "appid": 3531850,
+      "name": "Fishing Together: Idle Island",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "EPG"
+      ],
+      "publishers": [
+        "EPG"
+      ],
+      "genres": [
+        "인디"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "협동",
+        "온라인 협동",
+        "Steam 도전 과제",
+        "음량 개별 조절",
+        "키보드 전용 옵션",
+        "마우스 전용 옵션",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": "₩ 4,200",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 3531850,
+        "review_score_desc": "1 user reviews",
+        "total_positive": 1,
+        "total_negative": 0,
+        "positive_ratio": 1.0,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4446400,
+      "name": "MUTEIGHT",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Jesse Smithereens"
+      ],
+      "publishers": [
+        "Jesse Smithereens"
+      ],
+      "genres": [
+        "액션",
+        "어드벤처",
+        "인디",
+        "시뮬레이션"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "협동",
+        "스크린 공유 및 분할 협동",
+        "공유 및 분할 화면",
+        "컨트롤러 완벽 지원",
+        "키보드 전용 옵션",
+        "DUALSHOCK 컨트롤러 지원",
+        "DUALSHOCK 컨트롤러 지원",
+        "DualSense 컨트롤러 지원",
+        "DualSense 컨트롤러 지원",
+        "Steam 순위표"
+      ],
+      "price": "₩ 2,800",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "appid": 4446400,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4900420,
+      "name": "Senseless Cooking",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Crab Sock Games"
+      ],
+      "publishers": [
+        "Crab Sock Games"
+      ],
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "categories": [
+        "멀티플레이어",
+        "협동",
+        "온라인 협동",
+        "Steam 도전 과제",
+        "난이도 조정",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "스테레오 사운드",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": "₩ 4,900",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4900420,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 2836670,
+      "name": "Batya in the Building: 10 Years Later",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "DillyFrame"
+      ],
+      "publishers": [
+        "DillyFrame"
+      ],
+      "genres": [
+        "캐주얼",
+        "인디"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": "₩ 1,910",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 2836670,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4136730,
+      "name": "Solitaire Deck",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Breach Games"
+      ],
+      "publishers": [
+        "Breach Games"
+      ],
+      "genres": [
+        "캐주얼"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "텍스트 크기 조정",
+        "카메라 움직임 조정",
+        "색상 대체",
+        "음량 개별 조절",
+        "난이도 조정",
+        "키보드 전용 옵션",
+        "마우스 전용 옵션",
+        "#category_playable_at_your_own_pace",
+        "퀵타임 이벤트 없이 플레이 가능"
+      ],
+      "price": "₩ 4,900",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "reviews": {
+        "appid": 4136730,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 3982520,
+      "name": "Mischief Moves In",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Spacefaring Dog LLC"
+      ],
+      "publishers": [
+        "Spacefaring Dog LLC"
+      ],
+      "genres": [
+        "어드벤처",
+        "캐주얼",
+        "인디"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "음량 개별 조절",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "가족 공유"
+      ],
+      "price": "₩ 17,850",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 3982520,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4344210,
+      "name": "Keyboard Warrior",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Grouch",
+        "SuitNtie"
+      ],
+      "publishers": [
+        "Grouch"
+      ],
+      "genres": [
+        "액션",
+        "인디"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": "₩ 4,360",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4344210,
+        "review_score_desc": "3 user reviews",
+        "total_positive": 3,
+        "total_negative": 0,
+        "positive_ratio": 1.0,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4917740,
+      "name": "Wizard Tournament",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Rachop Studios"
+      ],
+      "publishers": [
+        "Rachop Studios"
+      ],
+      "genres": [
+        "캐주얼",
+        "인디",
+        "전략"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "PvP",
+        "온라인 PvP",
+        "협동",
+        "온라인 협동",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "음량 개별 조절",
+        "마우스 전용 옵션",
+        "#category_playable_at_your_own_pace",
+        "퀵타임 이벤트 없이 플레이 가능"
+      ],
+      "price": "₩ 6,750",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "reviews": {
+        "appid": 4917740,
+        "review_score_desc": "2 user reviews",
+        "total_positive": 2,
+        "total_negative": 0,
+        "positive_ratio": 1.0,
+        "recent": []
+      }
+    },
+    {
+      "appid": 2766810,
+      "name": "Scuttle",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Altered Self Games"
+      ],
+      "publishers": [
+        "Altered Self Games"
+      ],
+      "genres": [
+        "액션"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "음량 개별 조절",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": "₩ 6,840",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 2766810,
+        "review_score_desc": "5 user reviews",
+        "total_positive": 5,
+        "total_negative": 0,
+        "positive_ratio": 1.0,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4241690,
+      "name": "Hydra Heli 2",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Ideas Per Second"
+      ],
+      "publishers": [
+        "Ideas Per Second"
+      ],
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "음량 개별 조절",
+        "마우스 전용 옵션",
+        "#category_playable_at_your_own_pace",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "수시 저장",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": "₩ 6,840",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4241690,
+        "review_score_desc": "5 user reviews",
+        "total_positive": 4,
+        "total_negative": 1,
+        "positive_ratio": 0.8,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4581040,
+      "name": "Crescent Creek: Survival Horror",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "D&K Studios"
+      ],
+      "publishers": [
+        "D&K Studios"
+      ],
+      "genres": [
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "가족 공유"
+      ],
+      "price": "₩ 6,550",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4581040,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4421010,
+      "name": "Bills Must Be Paid",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Rike Games"
+      ],
+      "publishers": [
+        "Rike Games"
+      ],
+      "genres": [
+        "액션",
+        "캐주얼",
+        "인디",
+        "시뮬레이션",
+        "전략"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "컨트롤러 완벽 지원",
+        "카메라 움직임 조정",
+        "색상 대체",
+        "음량 개별 조절",
+        "#category_playable_at_your_own_pace",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "DUALSHOCK 컨트롤러 지원",
+        "DUALSHOCK 컨트롤러 지원",
+        "DualSense 컨트롤러 지원",
+        "DualSense 컨트롤러 지원"
+      ],
+      "price": "₩ 5,320",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4421010,
+        "review_score_desc": "Very Positive",
+        "total_positive": 199,
+        "total_negative": 5,
+        "positive_ratio": 0.975,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4836540,
+      "name": "Company of Heroes 3: Final Stand",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Relic Entertainment"
+      ],
+      "publishers": [
+        "Relic Entertainment"
+      ],
+      "genres": [
+        "액션",
+        "전략"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "멀티플레이어",
+        "협동",
+        "온라인 협동",
+        "Steam 도전 과제",
+        "앱 내 구매",
+        "Steam Cloud",
+        "통계",
+        "가족 공유"
+      ],
+      "price": "₩ 29,070",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4836540,
+        "review_score_desc": "Mixed",
+        "total_positive": 109,
+        "total_negative": 158,
+        "positive_ratio": 0.408,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4846570,
+      "name": "Wimple and Habit",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Orcsune Productions LLC"
+      ],
+      "publishers": [
+        "Orcsune Productions LLC"
+      ],
+      "genres": [
+        "어드벤처",
+        "캐주얼"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "Steam 도전 과제",
+        "음량 개별 조절",
+        "마우스 전용 옵션",
+        "#category_playable_at_your_own_pace",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "수시 저장",
+        "컨트롤러 일부 지원",
+        "Steam Cloud",
+        "가족 공유"
+      ],
+      "price": "₩ 6,370",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "reviews": {
+        "appid": 4846570,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    },
+    {
+      "appid": 4941520,
+      "name": "Galactic Sentinels",
+      "type": "game",
+      "release_date": "2026년 7월 29일",
+      "coming_soon": false,
+      "developers": [
+        "Lordoomer"
+      ],
+      "publishers": [
+        "Lordoomer"
+      ],
+      "genres": [
+        "액션"
+      ],
+      "categories": [
+        "싱글 플레이어",
+        "컨트롤러 완벽 지원",
+        "음량 개별 조절",
+        "난이도 조정",
+        "게임패드 권장",
+        "키보드 전용 옵션",
+        "퀵타임 이벤트 없이 플레이 가능",
+        "가족 공유"
+      ],
+      "price": "₩ 5,470",
+      "is_free": false,
+      "metacritic": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "appid": 4941520,
+        "review_score_desc": "No user reviews",
+        "total_positive": 0,
+        "total_negative": 0,
+        "positive_ratio": null,
+        "recent": []
+      }
+    }
+  ]
+}
